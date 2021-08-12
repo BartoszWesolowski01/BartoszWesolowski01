@@ -8,3 +8,4 @@
 - I can understand some Japanese, as I find this language interesting
 - I've spent the most time making Projects using JS (jQuery) and PHP
 - I've also experimented with C++ and Python
+- My LinkedIn - https://www.linkedin.com/in/bartosz-weso%C5%82owski-7a1313219/
