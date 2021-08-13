@@ -5,7 +5,7 @@
 - I'm Polish
 - I speak English at communicative level
 - I also had German in School, but hardly remember anything
-- I can understand some Japanese, as I find this language interesting
+- I can understand some Japanese and recognize most of the Kana Characters, as I find this language interesting
 - I've spent the most time making Projects using JS (jQuery) and PHP
 - I've also experimented with C++ and Python
 - My LinkedIn - https://www.linkedin.com/in/bartosz-weso%C5%82owski-7a1313219/
